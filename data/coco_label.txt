@@ -1,2 +1,2 @@
 1.jpg 1 55 97 31 8 1 117 93 14 6
-name cls cx cy w
+name cls cx cy w h
